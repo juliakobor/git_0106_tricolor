@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+footer{
+    width: 50%;
+    height: 100vh;
+    margin: 0 auto;
+    background-color: green;
+}
+=======
+header, main {
+    width: 50%;
+    height: 100vh;
+    margin: 0 auto;
+    }
+header {
+    background-color:blue;
+}
+main {
+background-color:pink;
+}
+>>>>>>> 7bdd10245c148b49f10880b8cf8ecaadc85fa48e
